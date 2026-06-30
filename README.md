@@ -1,4 +1,4 @@
-﻿## Free AI Chatbot using OpenRouter API - Run LLMs locally free wiout hosting on your machine
+﻿## Free AI Chatbot using OpenRouter API - Run LLMs locally free without hosting on your machine
 
 A lightweight, privacy-focused, single-page chat interface that connects to the OpenRouter API. This project allows users to interact with various AI models (including free ones) without needing a backend server or complex setup.
 
